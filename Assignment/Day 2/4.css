@@ -1,0 +1,23 @@
+.common-style {
+    color: tomato;
+    background: teal;
+
+    margin-bottom: 16px;
+    padding: 12px;
+
+    font-size: 24px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.common-style1 {
+    color: yellow;
+    background: royalblue;
+
+    margin-bottom: 16px;
+    padding: 12px;
+
+    font-size: 24px;
+    font-family: cursive;
+    text-align: center;
+}
